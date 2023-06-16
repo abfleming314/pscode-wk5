@@ -1,0 +1,117 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+1. 
+> User enter numA
+> User enter numB
+> Add numA and numB
+Print numC
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+2.
+> User enter number
+> Check if number divisible by 2
+> If true, print "even"
+> If false, print "odd"
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+3a. 
+> User enter numA
+> User enter numB
+> User enter numC
+> User enter numD
+> User enter numE
+
+3b. 
+> Add numA + numB + numC + numD + numE
+> Print numF 
+> Find total numbers input 
+> Divide numF by total numbers input 
+> Print numG
+
+3c. 
+
+> Print numA
+	> Is less than numB?
+	> Is less than numC?
+	> Is less than numD?
+	> Is less than numE?
+> If yes to all, stop and print "numA smallest number"
+> If no to any, continue
+	> Is greater than numB?
+	> Is greater than numC?
+	> Is greater than numD?
+	> Is greater than numE?
+> If yes to all, print "numA largest number"
+> If no to any, ignore
+
+> Print numB
+	> Is less than numA?
+	> Is less than numC?
+	> Is less than numD?
+	> Is less than numE?
+> If yes to all, stop and print "numB smallest number"
+> If no to any, continue
+	> Is greater than numA?
+	> Is greater than numC?
+	> Is greater than numD?
+	> Is greater than numE?
+> If yes to all, print "numB largest number"
+> If no to any, ignore
+
+> Print numC
+	> Is less than numA?
+	> Is less than numB?
+	> Is less than numD?
+	> Is less than numE?
+> If yes to all, stop and print "numC smallest number"
+> If no to any, continue
+	> Is greater than numA?
+	> Is greater than numB?
+	> Is greater than numD?
+	> Is greater than numE?
+> If yes to all, print "numC largest number"
+> If no to any, ignore
+
+> Print numD
+	> Is less than numA?
+	> Is less than numB?
+	> Is less than numC?
+	> Is less than numE?
+	> If yes to all, stop and print "numD smallest number"
+> If no to any, continue
+	> Is greater than numA?
+	> Is greater than numB?
+	> Is greater than numC?
+	> Is greater than numE?
+> If yes to all, print "numD largest number"
+> If no to any, ignore
+
+> Print numE
+	> Is less than numA?
+	> Is less than numB?
+	> Is less than numC?
+	> Is less than numD?
+> If yes to all, stop and print "numE smallest number"
+> If no to any, continue
+	> Is greater than numA?
+	> Is greater than numB?
+	> Is greater than numC?
+	> Is greater than numD?
+> If yes to all, print "numE largest number"
+> If no to any, ignore
+
+3d. 
+> Print numG
+> Print "The average of this set is numG"
+
+> Print numLargest
+	> Print "numLargest is the maximum number of this set"
+> Print numSmallest
+	> Print "numSmallest is the minimum number of this set"
+
+
+--END--
